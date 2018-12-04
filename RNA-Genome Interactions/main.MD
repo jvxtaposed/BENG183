@@ -131,5 +131,5 @@ then our new threshold, `p` is:
 
 
 
-[diff-im]: https://media.nature.com/lw926/nature-assets/srep/2016/160915/srep33296/images_hires/srep33296-f3.jpg "Example plot"
-[methods]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3869392/bin/nihms439296f2.jpg
+[diff-im]: https://imgur.com/a/YSg16La "Example plot"
+[methods]: https://imgur.com/a/fq0VKyM
